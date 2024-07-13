@@ -19,12 +19,6 @@ const dataReducer = (state = initialState, action) => {
 				data: null, 
 				error: action.payload, 
 			}; 
-		case "DELETE_DATA_REQUEST": 
-			return { 
-				...state, 
-				data: null, 
-				error: null, 
-			}; 
 		default: 
 			return state; 
 	} 

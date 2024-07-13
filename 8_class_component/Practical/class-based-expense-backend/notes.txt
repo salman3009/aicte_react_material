@@ -1,0 +1,10 @@
+creating package.json 
+npm init
+
+install the package 
+npm install json-server
+
+create db.json file 
+
+start command
+npx json-server db.json --port 8080

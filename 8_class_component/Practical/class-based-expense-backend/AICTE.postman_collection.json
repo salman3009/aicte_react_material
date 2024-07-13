@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "e77fa5ab-3f98-47a0-bfe3-52e87bcfadfa",
+		"name": "AICTE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3112594"
+	},
+	"item": [
+		{
+			"name": "http://localhost:3000/posts",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"id\": \"3\", \"title\": \"another title\", \"views\": 200 }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/posts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"posts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

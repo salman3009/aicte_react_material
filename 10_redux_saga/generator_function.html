@@ -1,0 +1,13 @@
+A generator function uses the yield keyword to generate values, pausing execution and sending values to the caller. It retains the state to resume execution after yield, continuing immediately after the last yield run.
+<script>
+function* fun() {
+    yield 10;
+    yield 20;
+    yield 30;
+}
+
+let gen = fun();
+console.log(gen.next().value);
+console.log(gen.next().value);
+console.log(gen.next().value);
+</script>

@@ -15,7 +15,7 @@ class App extends Component {
   }
 
      componentDidMount(){
-         axios.get('http://localhost:3000/expense').then((response)=>{
+         axios.get('http://localhost:8080/expense').then((response)=>{
                  let balance =0;
              for(let obj of response.data){
                 if(obj.type="ADD"){
@@ -39,7 +39,7 @@ class App extends Component {
   }
 
   onAddHandler=()=>{
-        axios.post('http://localhost:3000/expense',{
+        axios.post('http://localhost:8080/expense',{
           expense:this.state.expense,
           type:"ADD",
           date:new Date().toISOString()}).then(()=>{
@@ -53,7 +53,7 @@ class App extends Component {
   }
 
   onRemoveHandler=()=>{
-    axios.post('http://localhost:3000/expense',{
+    axios.post('http://localhost:8080/expense',{
           expense:this.state.expense,
           type:"REMOVE",
           date:new Date().toISOString()}).then(()=>{

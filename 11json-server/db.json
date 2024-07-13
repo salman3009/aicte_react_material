@@ -1,0 +1,144 @@
+{
+  "registration": [
+    {
+      "username": "salman",
+      "password": "12345"
+    }
+  ],
+  "musicLiked": [
+    {
+      "id": 1,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907d47ae38c3e33a189a.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907d47ae38c3e33a189a.jpg",
+      "title": "Kohinoor"
+    },
+    {
+      "id": 2,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907d47ae38c3e33a18a2.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907d47ae38c3e33a18a2.jpg",
+      "title": "Chak De India"
+    }
+  ],
+  "musiclist": [
+    {
+      "id": 1,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907d47ae38c3e33a189a.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907d47ae38c3e33a189a.jpg",
+      "title": "Kohinoor"
+    },
+    {
+      "id": 2,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907d47ae38c3e33a18a2.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907d47ae38c3e33a18a2.jpg",
+      "title": "Chak De India"
+    },
+    {
+      "id": 3,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907e47ae38c3e33a18ae.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907e47ae38c3e33a18ae.jpg",
+      "title": "Maula Mere Lele Meri Jaan"
+    },
+    {
+      "id": 4,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907e47ae38c3e33a18b7.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907e47ae38c3e33a18b7.jpg",
+      "title": "Badal Pe Paon Hai"
+    },
+    {
+      "id": 5,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907f47ae38c3e33a18c0.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907f47ae38c3e33a18c0.jpg",
+      "title": "Ek Hockey Doongi Rakh Ke"
+    },
+    {
+      "id": 6,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf907f47ae38c3e33a18cd.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf907f47ae38c3e33a18cd.jpg",
+      "title": "Hockey Remix"
+    },
+    {
+      "id": 7,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908047ae38c3e33a18d8.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908047ae38c3e33a18d8.jpg",
+      "title": "Sattar Minute"
+    },
+    {
+      "id": 8,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908047ae38c3e33a18df.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908047ae38c3e33a18df.jpg",
+      "title": "Bad Bad Girls"
+    },
+    {
+      "id": 9,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908147ae38c3e33a18e9.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908147ae38c3e33a18e9.jpg",
+      "title": "Udd Jaa Kaale Kaava (From \"Gadar 2\")"
+    },
+    {
+      "id": 10,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908247ae38c3e33a18f8.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908247ae38c3e33a18f8.jpg",
+      "title": "Aur Kya"
+    },
+    {
+      "id": 11,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908247ae38c3e33a1904.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908247ae38c3e33a1904.jpg",
+      "title": "Phir Bhi Dil Hai Hindustani"
+    },
+    {
+      "id": 12,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908347ae38c3e33a190f.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908347ae38c3e33a190f.jpg",
+      "title": "Banke Tera Jogi"
+    },
+    {
+      "id": 13,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908347ae38c3e33a191b.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908347ae38c3e33a191b.jpg",
+      "title": "I Am the Best"
+    },
+    {
+      "id": 14,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908447ae38c3e33a1925.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908447ae38c3e33a1925.jpg",
+      "title": "I Am the Best"
+    },
+    {
+      "id": 15,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908447ae38c3e33a1930.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908447ae38c3e33a1930.jpg",
+      "title": "Kuch To Bata"
+    },
+    {
+      "id": 16,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908547ae38c3e33a193c.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908547ae38c3e33a193c.jpg",
+      "title": "Vande Mataram"
+    },
+    {
+      "id": 17,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908547ae38c3e33a1946.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908547ae38c3e33a1946.jpg",
+      "title": "Aao Na Aao Na"
+    },
+    {
+      "id": 18,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908647ae38c3e33a1951.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908647ae38c3e33a1951.jpg",
+      "title": "Raataan Lambiyan"
+    },
+    {
+      "id": 19,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908747ae38c3e33a195d.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908747ae38c3e33a195d.jpg",
+      "title": "Ranjha"
+    },
+    {
+      "id": 20,
+      "audio": "https://newton-project-resume-backend.s3.amazonaws.com/audio/64cf908747ae38c3e33a1967.mp3",
+      "image": "https://newton-project-resume-backend.s3.amazonaws.com/thumbnail/64cf908747ae38c3e33a1967.jpeg",
+      "title": "Kabhii Tumhhe"
+    }
+  ]
+}

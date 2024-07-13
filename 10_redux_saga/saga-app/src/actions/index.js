@@ -14,6 +14,4 @@ export const fetchDataFailure = (error) => ({
 	payload: error, 
 }); 
 
-export const deleteDataRequest = () => ({ 
-	type: "DELETE_DATA_REQUEST", 
-});
+
